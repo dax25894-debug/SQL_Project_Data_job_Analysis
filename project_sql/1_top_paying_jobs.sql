@@ -22,4 +22,4 @@ WHERE
     salary_year_avg is not null
 ORDER BY
     salary_hour_avg DESC
-limit 10
+limit 10 
