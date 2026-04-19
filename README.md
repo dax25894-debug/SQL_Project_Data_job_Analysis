@@ -7,7 +7,7 @@ here: [project_sql folder](/project_sql/)
 
 As I continue learning data analysis, I often questioned which skills are actually worth focusing on. This project was created to answer that by analyzing real job data and identifying the most valuable and in-demand skills.
 
-Data haild from the online course i was lwarning from
+Data haild from the online course i was learning from
 
 ### The questions I wanted to answer through my SQL queries were
 
