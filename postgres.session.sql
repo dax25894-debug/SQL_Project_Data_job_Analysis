@@ -1,1 +1,0 @@
-CREATE DATABASE mcd_project;
